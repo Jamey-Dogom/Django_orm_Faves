@@ -1,0 +1,82 @@
+.bg-black {
+    background-color: #212529;
+}
+
+.tac {
+    text-align: center;
+    color: #212529;
+}
+
+.wh {
+    color: white;
+}
+
+.ilb {
+    display: inline-block;
+}
+
+.ta {
+    margin-top: -16%;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.mgt {
+    margin-top: 3%;
+}
+
+.mgb {
+    margin-bottom: 10%;
+}
+.mgbtm {
+    margin-bottom: 8%;
+}
+.bta {
+    display: inline-block;
+    margin-left: 105%;
+    vertical-align: top;
+    margin-top: -24%;
+}
+
+.mv {
+    margin-left: 85%;
+}
+
+.message-box{
+    border: 2px solid black;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.allb {
+
+padding-left: 25%;
+
+}
+
+.alb {
+
+    padding-left: 15%;
+    
+    }
+
+h3 {
+    font-weight: bold;
+}
+
+.book_class {
+    margin-top: 1%;
+    margin-bottom: 7%;
+}
+
+.btn2 {
+    margin-left: 60%;
+    margin-bottom: 40%;
+    vertical-align: top;
+}
+
+.btn {
+    display: inline-block;
+}
